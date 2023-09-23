@@ -24,7 +24,7 @@ const imageAltText = "web background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science Student studying at Patan Multiple Campus";
+  "I'm a Computer Science Student studying at Patan Multiple Campus.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
